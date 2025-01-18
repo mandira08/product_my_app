@@ -1,0 +1,22 @@
+.name{
+    color: aqua
+}  
+.custom-button {
+    padding: 40px 30px 40px 30px;
+    background-color: #f26507;
+    color: rgb(12, 12, 12);
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    margin: 70px;
+    text-decoration: none; /* Ensures the link looks like part of the button */
+  }
+ 
+  .custom-button:hover {
+    background-color: #a06245;
+  }
+ 
+  .custom-link {
+    text-decoration: none;
+    color: white;
+  }
